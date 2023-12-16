@@ -1,1 +1,1 @@
-vid timestmp: 00:39:00 
+vid timestmp: 01:27:30 
